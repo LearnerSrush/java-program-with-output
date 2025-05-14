@@ -1,4 +1,4 @@
-//1.Write a java program for getting different colors through ArrayList interface and search whether the color "Red" is available or not.
+//P1.Write a java program for getting different colors through ArrayList interface and search whether the color "Red" is available or not.
 import java.util.*;
 public class p1 {
 
@@ -19,7 +19,7 @@ public class p1 {
 
 }
 
-//2.Write a java program for getting different colors through ArrayList interface and remove the 2nd element and color "Blue" from the ArrayList.
+//P2.Write a java program for getting different colors through ArrayList interface and remove the 2nd element and color "Blue" from the ArrayList.
 
 import java.util.*;
 public class p2 {
@@ -41,7 +41,7 @@ public class p2 {
 
 }
 
-//3.Write a java program for getting different colors through ArrayList interface and sort them using Collections.sort( ArrayListObj)
+//P3.Write a java program for getting different colors through ArrayList interface and sort them using Collections.sort( ArrayListObj)
 
 import java.util.*;
 public class p3 {
@@ -63,7 +63,7 @@ public class p3 {
 
 }
 
-//4.Write a java program for getting different colors through ArrayList interface and extract the elements 1st and 2nd from the ArrayList object by using SubList()
+//P4.Write a java program for getting different colors through ArrayList interface and extract the elements 1st and 2nd from the ArrayList object by using SubList()
   
 import java.util.*;
 public class p4 {
@@ -82,7 +82,7 @@ public class p4 {
   }
 }
 
-//5 Write a java program for getting different colors through ArrayList interface and delete nth element from the ArrayList object by using remove by index.
+//P5 Write a java program for getting different colors through ArrayList interface and delete nth element from the ArrayList object by using remove by index.
 
 import java.util.*;
 public class p5 {
