@@ -13,12 +13,12 @@
 
 # Linked List Programs Outputs
 
-[ArrayList1 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/p5.png)
+[LinkedList1 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/.png)
 
-[ArrayList2 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/p5.png)
+[LinkedList2 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/p5.png)
 
-[ArrayList3 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/p5.png)
+[LinkedList3 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/p5.png)
 
-[ArrayList4 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/p5.png)
+[LinkedList4 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/p5.png)
 
-[ArrayList5 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/p5.png)
+[LinkedList5 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/p5.png)
