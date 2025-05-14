@@ -10,3 +10,15 @@
 [ArrayList4 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/p4.png)
 
 [ArrayList5 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/p5.png)
+
+# Linked List Programs Outputs
+
+[ArrayList5 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/p5.png)
+
+[ArrayList5 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/p5.png)
+
+[ArrayList5 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/p5.png)
+
+[ArrayList5 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/p5.png)
+
+[ArrayList5 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/p5.png)
