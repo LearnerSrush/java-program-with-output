@@ -1,4 +1,4 @@
-[program1 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/program1.png)
+**program1 ArrayList And LinkedList output**-A(https://github.com/LearnerSrush/java-program-with-output/blob/main/program1.png)
 
 [ArrayList1 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/p1.png)
 
