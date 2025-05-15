@@ -1,5 +1,8 @@
 # Java Programs
-# 1a.program1 ArrayList And LinkedList output (https://github.com/LearnerSrush/java-program-with-output/blob/main/program1.png)
+# 1a.program1 ArrayList And LinkedList output 
+
+(https://github.com/LearnerSrush/java-program-with-output/blob/main/program1.png)
+
 # 1b.Exercise Program1_ArrayList
 [ArrayList1 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/p1.png)
 
