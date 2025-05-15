@@ -26,5 +26,6 @@
 # Various string operations with different string handling functions output
 
 [2a.String Operations output](https://github.com/LearnerSrush/java-program-with-output/blob/main/2a.StringOperations.png)
+
 [2b.String builder and string buffer output](https://github.com/LearnerSrush/java-program-with-output/blob/main/2b.StringBufferAndStringBuilder.png)
 
