@@ -1,6 +1,6 @@
 # Java Programs
-**program1 ArrayList And LinkedList output**-A(https://github.com/LearnerSrush/java-program-with-output/blob/main/program1.png)
-# Exercise Program1_ArrayList
+**1a.program1 ArrayList And LinkedList output**-A(https://github.com/LearnerSrush/java-program-with-output/blob/main/program1.png)
+# 1b.Exercise Program1_ArrayList
 [ArrayList1 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/p1.png)
 
 [ArrayList2 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/p2.png)
@@ -11,7 +11,7 @@
 
 [ArrayList5 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/p5.png) 
 
-# Linked List Programs Outputs
+# 1c.Linked List Programs Outputs
 
 [LinkedList1 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/LinkedList1.png)
 
@@ -25,13 +25,13 @@
 
 
 
-# Various string operations with different string handling functions output
+# 2a and 2b Various string operations with different string handling functions output
 
 [2a.String Operations output](https://github.com/LearnerSrush/java-program-with-output/blob/main/2a.StringOperations.png)
 
 [2b.String builder and string buffer output](https://github.com/LearnerSrush/java-program-with-output/blob/main/2b.StringBufferAndStringBuilder.png)
 
-# String Programs Outputs
+# 3b.String Programs Outputs
 
 [Q1String output](https://github.com/LearnerSrush/java-program-with-output/blob/main/Q1String.png)
 
@@ -42,6 +42,8 @@
 [Q4String output](https://github.com/LearnerSrush/java-program-with-output/blob/main/Q4String.png)
 
 [Q5String output](https://github.com/LearnerSrush/java-program-with-output/blob/main/Q5String.png)
+
+# 3c.String Programs Outputs
 
 [Q6String output](https://github.com/LearnerSrush/java-program-with-output/blob/main/Q6String.png)
 
