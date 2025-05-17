@@ -89,7 +89,7 @@
 **6a.FactorialServlet**
 
 [6a.FactorialServlet](https://github.com/LearnerSrush/java-program-with-output/blob/main/6a.factoriall.png)
-[6a.FactorialServlet](https://github.com/LearnerSrush/java-program-with-output/blob/main/6a.factorial.png)
+[6a.FactorialServlet](https://github.com/LearnerSrush/java-program-with-output/blob/main/6a.Factorial.png)
 
 **6b.CookieServlet**
 
