@@ -93,7 +93,7 @@
 
 **6b.CookieServlet**
 
-[6b.CookieServlet](https://github.com/LearnerSrush/java-program-with-output/blob/main/6b.Cookieservlet.png)
+[6b.CookieServlet](https://github.com/LearnerSrush/java-program-with-output/blob/main/6b.CookieServlet.png)
 
 **6c.PrimeNumberServlet**
 
