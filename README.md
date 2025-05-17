@@ -58,7 +58,7 @@
 
 [Q10String output](https://github.com/LearnerSrush/java-program-with-output/blob/main/Q10String.png)
 
-# Swings programs outputs.
+# 4.Swings programs outputs.
 
 **4a.Swings Output**
 
@@ -68,7 +68,7 @@
 
 [4b.Swings output](https://github.com/LearnerSrush/java-program-with-output/blob/main/4bSwings.png)
 
-**5a.Swings Output**
+# 5.Swings programs outputs.
 
 [5a.Swings output](https://github.com/LearnerSrush/java-program-with-output/blob/main/5aSwings.png)
 
@@ -84,4 +84,18 @@
 
 [5d.Swings output](https://github.com/LearnerSrush/java-program-with-output/blob/main/5d.Swings.png)
 
+# 6.Servlet Programs Outputs.
+
+**6a.FactorialServlet**
+
+[6a.FactorialServlet](https://github.com/LearnerSrush/java-program-with-output/blob/main/6a.factoriall.png)
+[6a.FactorialServlet](https://github.com/LearnerSrush/java-program-with-output/blob/main/6a.factorial.png)
+
+**6b.CookieServlet**
+
+[6b.CookieServlet](https://github.com/LearnerSrush/java-program-with-output/blob/main/6b.Cookieservlet.png)
+
+**6c.PrimeNumberServlet**
+
+[6c.PrimeNumberServlet](https://github.com/LearnerSrush/java-program-with-output/blob/main/6c.PrimeNumberServlet.png)
 
