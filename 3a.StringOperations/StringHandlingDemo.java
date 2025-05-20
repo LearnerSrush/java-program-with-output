@@ -1,4 +1,4 @@
-//2 a. Develop a java program for performing various string operations with different string handling functions directed as follows String Creation and Basic Operations,
+//3 a. Develop a java program for performing various string operations with different string handling functions directed as follows String Creation and Basic Operations,
 //Length and Character Access, String Comparison, StringSearching, Substring Operations , 
 //String Modification, Whitespace Handling, String Concatenation, String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and startsWith() and endsWith()
 
@@ -101,25 +101,4 @@ email.length() >= 5;
 
 
 
-//2.b. Develop a Java program to make a Performance Test on StringBuffer and StringBuilder for appending the string ‘AIET’ for 10000 times both in the StringBuffer and StringBuilder. 
-//Justify your answer which one is better.
 
-//Java Program to demonstrate the performance of StringBuffer and StringBuilder classes.
-public class PerformanceTest{
-public static void main(String[] args){
-long startTime = System.currentTimeMillis();
-StringBuffer sb = new StringBuffer("Java");
-for (int i=0; i<10000; i++){
-sb.append("Tpoint");
-}
-System.out.println("Time taken by StringBuffer: " + (System.currentTimeMillis() - startTime) +
-"ms");
-startTime = System.currentTimeMillis();
-StringBuilder sb2 = new StringBuilder("Java");
-for (int i=0; i<10000; i++){
-sb2.append("Tpoint");
-}
-System.out.println("Time taken by StringBuilder: " + (System.currentTimeMillis() - startTime) +
-"ms");
-}
-}
