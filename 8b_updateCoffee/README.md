@@ -1,4 +1,8 @@
-# 2_LinkedHashMap_Exercises
+# 9_MySql Selection and Query
 
-[MapInterfaceDemo output](https://github.com/LearnerSrush/java-program-with-output/blob/main/MapInterfaceDemo.png)
+[9_MySql Selection and Query output](https://github.com/LearnerSrush/java-program-with-output/blob/main/9_MySql Selection and Query.png)
+
+
+[9_MySql_Selection and Deletion output](https://github.com/LearnerSrush/java-program-with-output/blob/main/9_MySql_Selection and Deletion.png)
+
 
