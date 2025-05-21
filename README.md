@@ -44,7 +44,7 @@
 
 [Iterating output](https://github.com/LearnerSrush/java-program-with-output/blob/main/Iterating.png)
 
-[LinkedList5 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/LinkedList5.png)
+
 
 
 # 3b.String Programs Outputs
