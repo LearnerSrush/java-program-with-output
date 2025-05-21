@@ -1,3 +1,3 @@
 # 2_LinkedHashMap_Exercises
 
-[MapInterfaceDemo output](https://github.com/LearnerSrush/java-program-with-output/blob/main/MapInterfaceDemo.png)
+[LinkedHashMap output](https://github.com/LearnerSrush/java-program-with-output/blob/main/LinkedHashMapEldestRemovalDemo.png)
