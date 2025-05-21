@@ -34,6 +34,19 @@
 
 [2b.String builder and string buffer output](https://github.com/LearnerSrush/java-program-with-output/blob/main/2b.StringBufferAndStringBuilder.png)
 
+# 2.HASHMAP
+
+[HashMapEmptyCheckDemo output](https://github.com/LearnerSrush/java-program-with-output/blob/main/HashMapEmptyCheckDemo.png)
+
+[CopyMapToAnotherDemo output](https://github.com/LearnerSrush/java-program-with-output/blob/main/CopyMapToAnotherDemo.png)
+
+[HashMapClearAndVerify output](https://github.com/LearnerSrush/java-program-with-output/blob/main/HashMapClearAndVerify.png)
+
+[Iterating output](https://github.com/LearnerSrush/java-program-with-output/blob/main/Iterating.png)
+
+[LinkedList5 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/LinkedList5.png)
+
+
 # 3b.String Programs Outputs
 
 [Q1String output](https://github.com/LearnerSrush/java-program-with-output/blob/main/Q1String.png)
