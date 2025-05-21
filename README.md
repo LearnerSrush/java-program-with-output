@@ -46,9 +46,11 @@
 
 # 2_HashSet, TreeSet and LinkedHashSet
 
+[LinkedHashMapEldestRemovalDemo output](https://github.com/LearnerSrush/java-program-with-output/blob/main/LinkedHashMapEldestRemovalDemo.png)
+
+# 2_LinkedHashMap_Exercises
+
 [MapInterfaceDemo output](https://github.com/LearnerSrush/java-program-with-output/blob/main/MapInterfaceDemo.png)
-
-
 
 
 # 3b.String Programs Outputs
