@@ -1,1 +1,1 @@
-[1.ArrayList_LinkedList output]([https://github.com/LearnerSrush/java-program-with-output/blob/main/1.ArrayList_LinkedList/1.ArrayList_LinkedList/program1.png)
+[ArrayList_LinkedList output](https://github.com/LearnerSrush/java-program-with-output/blob/main/1.ArrayList_LinkedList/program1.png)
