@@ -1,4 +1,4 @@
-# 9_MySql Selection and Query
+# 9 program Outputs
 
 [9a_MySql_Selection and Deletion output](https://github.com/LearnerSrush/java-program-with-output/blob/main/9_JDBCEmployee/9_MySqlSelectionAndDeletion.png)
 
