@@ -115,9 +115,10 @@ Each section includes relevant Java programs with comments and example outputs t
 [7a output](https://github.com/LearnerSrush/java-program-with-output/blob/main/7a_Session_Manangement/7a.jpeg)  
 [7a.1 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/7a_Session_Manangement/7a1.jpg)
 
-## 7b. Cookie Management
-[7b output](https://github.com/LearnerSrush/java-program-with-output/blob/main/7b_Cookie_Management/7b.jpg)  
-[7b.1 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/7b_Cookie_Management/7b1.jpg)
+## 7b_Cookie_Management
+[7b.addcookie output](https://github.com/LearnerSrush/java-program-with-output/blob/main/7b_Cookie_Management/7b.addcookie.jpg)
+[7b output](https://github.com/LearnerSrush/java-program-with-output/blob/main/7b_Cookie_Management/7b1.jpg)
+
 
 ## 8a. JDBC Coffee
 [8a_JDBCCcoffee output](https://github.com/LearnerSrush/java-program-with-output/blob/main/8a_JDBBCCoffee/8a_JDBCCcoffee.png)
