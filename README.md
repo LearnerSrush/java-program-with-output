@@ -1,47 +1,48 @@
 
-# 💻 Java Programs Repository
+# Java Programs Repository
 
-Welcome! This repository contains a curated collection of Java programs categorized by topics and subtopics for academic and practical learning. Each section addresses specific programming concepts, UI development, web technologies, and database operations.
+This repository contains a well-structured collection of Java programs categorized by topic and functionality. The sections cover core Java concepts, UI development with Swing, and web programming using Servlets, JSP, and JDBC.
 
 ---
 
-## 📘 Program Index
+## Program Index
 
-### 🧺 Section 1: Collections – ArrayList & LinkedList
+### Section 1: Collections – ArrayList & LinkedList
 - **1.a** – Core operations on `ArrayList` and `LinkedList`  
 - **1.b** – Color handling using `ArrayList`  
 - **1.c** – Specialized `LinkedList` tasks
 
-### 🔤 Section 2: Strings & Builders
+### Section 2: Strings & Builders
 - **2.a** – Comprehensive string handling and operations  
 - **2.b** – Performance comparison: `StringBuilder` vs `StringBuffer`
 
-### 🧪 Section 3: String Utility Programs
+### Section 3: String Utility Programs
 - **3.a** – Duplicate of 2.a for extended practice  
 - **3.b** – Custom string utility functions (null check, reverse, count, etc.)  
 - **3.c** – Advanced string manipulations (capitalize, truncate, random, etc.)
 
-### 🖼️ Section 4: Swing – Basic UI Programs
-- **4.a – 4.c** – GUI apps with `JFrame`, `JLabel`, and interactive `JButtons`
+### Section 4: Swing – Basic UI Programs
+- **4.a – 4.c** – GUI apps using `JFrame`, `JLabel`, and interactive `JButtons`
 
-### 📋 Section 5: Swing – Interactive Lists & Tabs
-- **5.a – 5.d** – Programs using `JList`, `JTabbedPane`, and color/country display
+### Section 5: Swing – Interactive Lists & Tabs
+- **5.a – 5.d** – Programs using `JList`, `JTabbedPane`, and color/country interaction
 
-### 🌐 Section 6: Servlet Programming
-- **6.a – 6.c** – Servlets with HTML forms for factorial, cookies, and prime check
+### Section 6: Servlet Programming
+- **6.a – 6.c** – Servlets with HTML forms for factorial, cookie handling, and prime number checking
 
-### 🍪 Section 7: JSP – Session & Cookie Management
-- **7.a – 7.b** – JSP-based session timeout and cookie creation/inspection
+### Section 7: JSP – Session & Cookie Management
+- **7.a – 7.b** – JSP-based session timeout and cookie creation/display
 
-### 🛠️ Section 8: JSP + JDBC – CRUD Operations (Coffee & Employee Tables)
-- **8.a – 8.d** – Insert, update, and report generation with database `Coffee` and `Emp` tables
+### Section 8: JSP + JDBC – CRUD Operations (Coffee & Employee Tables)
+- **8.a – 8.d** – Insert, update, and generate reports using database tables `Coffee` and `Emp`
 
-### 🗂️ Section 9: MySQL – Advanced JDBC Operations
-- **9.a – 9.d** – Delete, search, and report operations on MySQL with JSP integration
+### Section 9: MySQL – Advanced JDBC Operations
+- **9.a – 9.d** – Delete, filter, and display records using MySQL with JSP integration
 
 ---
 
-🔗 Each section includes multiple programs with comments and structured output to guide your understanding.
+Each section includes relevant Java programs with comments and example outputs to support learning and development.
+
 
 
 
