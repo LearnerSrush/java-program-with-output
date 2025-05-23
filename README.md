@@ -27,6 +27,7 @@
 
 [LinkedList1 output](https://github.com/LearnerSrush/java-program-with-output/blob/main/1_Linked%20List_Exercises/LinkedList1.png)
 
+
 # 2.HASHMAP
 
 [HashMapEmptyCheckDemo output](https://github.com/LearnerSrush/java-program-with-output/blob/main/2_HashMap_Ex/HashMapEmptyCheckDemo.png)
@@ -37,6 +38,10 @@
 
 [Iterating output](https://github.com/LearnerSrush/java-program-with-output/blob/main/2_HashMap_Ex/Iterating.png)
 
+
+# 2_HashSet, TreeSet and LinkedHashSet
+
+[MapInterfaceDemo output](https://github.com/LearnerSrush/java-program-with-output/blob/main/2_HashSet,%20TreeSet%20and%20LinkedHashSet/MapInterfaceDemo.png)
 
 
 
