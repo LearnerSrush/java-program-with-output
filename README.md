@@ -1,21 +1,26 @@
 # Java Programs
 
-// This file will include Java programs organized by sections and questions as per user request.
+# Java Programs
 
-// 1.a ArrayList and LinkedList operations
-// 1.b ArrayList color programs
-// 1.c LinkedList specific tasks
-// 2.a String operations
-// 2.b StringBuilder vs StringBuffer performance
-// 3a. Repeating 2a
-// 3b. String utility functions
-// 3c. More string utility functions
-// 4a-c Swing UI programs with buttons and tabs
-// 5a-d JList and JTabbedPane programs
-// 6a-c Servlets with HTML for factorial, cookies, and prime check
-// 7a-b JSP Session and Cookie Management
-// 8a-d JSP and JDBC: CRUD for Coffee and Emp tables
-// 9a-d JDBC and MySQL: advanced operations
+This repository includes Java programs organized by section and question as per user request.
+
+## Index
+
+- 1.a: ArrayList and LinkedList operations  
+- 1.b: ArrayList color programs  
+- 1.c: LinkedList specific tasks  
+- 2.a: String operations  
+- 2.b: StringBuilder vs StringBuffer performance  
+- 3.a: Repeating 2.a  
+- 3.b: String utility functions  
+- 3.c: More string utility functions  
+- 4.a–4.c: Swing UI programs with buttons and tabs  
+- 5.a–5.d: JList and JTabbedPane programs  
+- 6.a–6.c: Servlets with HTML for factorial, cookies, and prime number check  
+- 7.a–7.b: JSP Session and Cookie Management  
+- 8.a–8.d: JSP and JDBC: CRUD for Coffee and Emp tables  
+- 9.a–9.d: JDBC and MySQL: Advanced operations  
+
 
 ## 1. ArrayList vs LinkedList Output
 [ArrayList_LinkedList output](https://github.com/LearnerSrush/java-program-with-output/blob/main/1.ArrayList_LinkedList/program1.png)
